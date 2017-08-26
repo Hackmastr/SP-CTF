@@ -1,0 +1,5 @@
+sound/ctf/sfx_ctf_cap_pl.mp3
+sound/ctf/sfx_ctf_drop.mp3
+sound/ctf/sfx_ctf_grab_en.mp3
+sound/ctf/sfx_ctf_grab_pl.mp3
+sound/ctf/sfx_ctf_rtn.mp3
